@@ -1,5 +1,7 @@
 # in-it-togehter
 
+The following is documentation of me using ChatGPT to help me build an app.
+
 ## i'd like to design an app
 
 Great! Designing an app can be an exciting and rewarding experience. To get started, you will need to decide on the purpose and functionality of your app. This will help you determine the features and design elements you will need to incorporate.
